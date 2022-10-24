@@ -20,7 +20,8 @@ class Vistas
     }
 
     public function index(Router $router, array $vars){
-            echo "hola: ".$vars['a'];     
+
+            echo "hola usuario: ".$vars['a'];     
            
     }
 
