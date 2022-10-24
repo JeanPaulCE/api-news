@@ -1,0 +1,21 @@
+{
+  "urls": {
+    "404": {
+      "url": "/404",
+      "template": "/templates/404.php",
+      "method": "all"
+    },
+
+    "news": {
+      "url": "/",
+      "function": "home",
+      "method": "get"
+    },
+
+    "index": {
+      "url": "/index/$a",
+      "function": "index",
+      "method": "get"
+    }
+  }
+}

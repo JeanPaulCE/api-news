@@ -1,0 +1,11 @@
+{
+  
+  "DB": {
+    "type": "mysql",
+    "host": "sql628.main-hosting.eu:3306",
+    "database": "u260266251_newsapp",
+    "username": "u260266251_nesGaming",
+    "password": "8Hf^huC6o"
+  }
+
+}
